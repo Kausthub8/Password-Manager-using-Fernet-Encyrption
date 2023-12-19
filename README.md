@@ -34,7 +34,7 @@ Password Generation: Click the "Generate Password" button to create strong and s
 
 Password Notebook: Access the password notebook to view, add, or delete stored passwords.
 
-Settings: Change the master password through the settings page
+Settings: Change the master password through the settings page.
 
 
 
