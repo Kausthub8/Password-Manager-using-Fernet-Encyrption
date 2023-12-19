@@ -27,22 +27,7 @@ This Python application provides a secure password management solution using Fer
 - Python 3.x
 - Tkinter (Included with most Python installations)
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/password-manager.git
-
-2. Navigate to the project directory
-
-cd password-manager
-
-3. Run the Application
-
-python password_manager.py
-
-### Usage
+### Functionality
 First-time Setup: On the first run, the application will guide you through setting up a master password.
 
 Password Generation: Click the "Generate Password" button to create strong and secure passwords.
